@@ -21,5 +21,14 @@
     <ClCompile Include="02vector.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="03deque.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04练习.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05stack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -143,6 +143,9 @@
   <ItemGroup>
     <ClCompile Include="01string.cpp" />
     <ClCompile Include="02vector.cpp" />
+    <ClCompile Include="03deque.cpp" />
+    <ClCompile Include="04练习.cpp" />
+    <ClCompile Include="05stack.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
