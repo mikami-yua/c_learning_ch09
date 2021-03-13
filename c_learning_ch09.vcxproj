@@ -146,6 +146,9 @@
     <ClCompile Include="03deque.cpp" />
     <ClCompile Include="04练习.cpp" />
     <ClCompile Include="05stack.cpp" />
+    <ClCompile Include="06queue.cpp" />
+    <ClCompile Include="07list.cpp" />
+    <ClCompile Include="08set.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

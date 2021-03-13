@@ -54,7 +54,7 @@ void setScore(vector<Person>& v) {
 	}
 }
 
-int main() {
+int mfun4() {
 	//1.创建选手
 	vector<Person>v;
 	createPerson(v);
