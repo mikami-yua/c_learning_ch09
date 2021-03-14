@@ -250,7 +250,7 @@ void test78() {
 
 }
 
-int main() {
+int mfun7() {
 	test78();
 	return 0;
 }

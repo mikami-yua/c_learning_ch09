@@ -39,5 +39,8 @@
     <ClCompile Include="08set.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="09map.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
