@@ -132,7 +132,7 @@ void test95() {
 	}
 }
 
-int main() {
+int mfun9() {
 	test95();
 	return 0;
 }

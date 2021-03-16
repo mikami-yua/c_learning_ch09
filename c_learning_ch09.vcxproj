@@ -150,6 +150,9 @@
     <ClCompile Include="07list.cpp" />
     <ClCompile Include="08set.cpp" />
     <ClCompile Include="09map.cpp" />
+    <ClCompile Include="10练习pp.cpp" />
+    <ClCompile Include="11函数对象.cpp" />
+    <ClCompile Include="12常用算法.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -42,5 +42,14 @@
     <ClCompile Include="09map.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10练习pp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11函数对象.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12常用算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
